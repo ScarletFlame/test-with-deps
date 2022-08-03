@@ -1,6 +1,6 @@
 {
   "name": "test-with-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test package with dependencies",
   "main": "index.js",
   "scripts": {
