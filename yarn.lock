@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-test-dependent-first@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/test-dependent-first/-/test-dependent-first-1.0.0.tgz#d0c5e54ffc329533ffbee2f5f9a36f0c18ce383e"
-  integrity sha512-c3RUOE11aKyZ9fTXZVpGiSoCTq+QSC8bGC7GP4hYSYgTW9Nb2mwu0LO928XF5s0Mrict46gr+nt0NB8DyHVQAg==
+test-dependent-first@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/test-dependent-first/-/test-dependent-first-1.0.1.tgz#d692db23a509aa526391ac34f824fb222510526b"
+  integrity sha512-j/LLZcbAhTnm08gkZVhFikVf4W2U57+rrqGZP39h+wYUnZzBD2sswNg5nJkylYtpHH4gIcEdj1+LbIr3D4GDLw==
 
 test-dependent-second@^1.0.0:
   version "1.0.0"

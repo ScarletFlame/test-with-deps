@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "test-dependent-first": "^1.0.0",
+    "test-dependent-first": "^1.0.1",
     "test-dependent-second": "^1.0.0"
   },
   "keywords": [],
