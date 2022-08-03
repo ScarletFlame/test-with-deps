@@ -1,5 +1,9 @@
-const getInfo = () => {
-  console.log('Второй пакет, вывожу сообщение!');
+const first = require('test-dependent-first');
+const second = require('test-dependent-second')
+
+const combine = () => {
+  first.getInfo();
+  second.getInfo();
 }
 
-module.exports = { getInfo }
+module.exports = { combine }
